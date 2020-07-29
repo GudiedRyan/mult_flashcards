@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mult_flashcards/static/css/main.d0f213b6.chunk.css",
+    "main.js": "/mult_flashcards/static/js/main.25f3c4b9.chunk.js",
+    "main.js.map": "/mult_flashcards/static/js/main.25f3c4b9.chunk.js.map",
+    "runtime-main.js": "/mult_flashcards/static/js/runtime-main.ee302034.js",
+    "runtime-main.js.map": "/mult_flashcards/static/js/runtime-main.ee302034.js.map",
+    "static/js/2.d7e3a30b.chunk.js": "/mult_flashcards/static/js/2.d7e3a30b.chunk.js",
+    "static/js/2.d7e3a30b.chunk.js.map": "/mult_flashcards/static/js/2.d7e3a30b.chunk.js.map",
+    "index.html": "/mult_flashcards/index.html",
+    "precache-manifest.cff333a61d05adbbbc668432ba2f926f.js": "/mult_flashcards/precache-manifest.cff333a61d05adbbbc668432ba2f926f.js",
+    "service-worker.js": "/mult_flashcards/service-worker.js",
+    "static/css/main.d0f213b6.chunk.css.map": "/mult_flashcards/static/css/main.d0f213b6.chunk.css.map",
+    "static/js/2.d7e3a30b.chunk.js.LICENSE.txt": "/mult_flashcards/static/js/2.d7e3a30b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee302034.js",
+    "static/js/2.d7e3a30b.chunk.js",
+    "static/css/main.d0f213b6.chunk.css",
+    "static/js/main.25f3c4b9.chunk.js"
+  ]
+}
